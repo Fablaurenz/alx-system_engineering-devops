@@ -1,2 +1,2 @@
 #!/bin/bash
-This repository contain access path to a file
+This repository contains scripts for executing shell commands
